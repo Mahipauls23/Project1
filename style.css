@@ -15,7 +15,7 @@ p{
     justify-content: space-evenly;
     background-color: #FFCD9E;
     gap:10px;
-        border: 1px solid black;
+        
 
     
 }
@@ -24,12 +24,12 @@ p{
     flex-direction: column;
     margin: 3em 8em;
     width:100%;
-    /* border: 1px solid black; */
+    
 }
 .right_container{
     width:40%;
     background-color: #FFCD9E;
-    /* border: 1px solid black; */
+    
 
 
 }
@@ -38,7 +38,7 @@ p{
     height: 500px;
     margin-right:  2em;
     background: #FFCD9E;
-        border: 1px solid black;
+        
 
 
 }
