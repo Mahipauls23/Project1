@@ -1,3 +1,7 @@
+body{
+    font-family: 'Verdana', sans-serif;
+
+}
 h2{
     font-size: 36px;
     font-weight: 700;
@@ -22,20 +26,20 @@ p{
 .left_container{
     display: flex;
     flex-direction: column;
-    margin: 3em 8em;
-    /* width:100%; */
+    margin: 3em 0.5em 2em 7em;
+    
     
 }
 .right_container{
-    /* width:40%; */
+    
     background-color: #FFCD9E;
     
 
 
 }
 .right_container img{
-    width:500px;
-    height: 500px;
+    width:545px;
+    height: 545px;
     margin-right:  2em;
     background: #FFCD9E;       
 }
@@ -43,6 +47,7 @@ p{
 margin-right: 5.5em;
 color:#484848;
 margin-top: 0px;
+padding-right: 8px;
 }
 #para2{
     color:#282828;
@@ -203,11 +208,12 @@ ul{
     }
     .right_container{
         text-align: center;
+        margin: auto;
     }
     .right_container img{
         width:300px;
         height: 300px;
-        /* margin-right:  2em; */
+        margin-right:  0;
         background: #FFCD9E;       
     }
     .btn{
