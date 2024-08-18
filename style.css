@@ -40,7 +40,7 @@ p{
 .right_container img{
     width:535px;
     height: 545px;
-    margin-right:  2em;
+    margin-right:  0em;
     background: #FFCD9E;       
 }
 #para1{
@@ -96,7 +96,7 @@ padding-right: 8px;
     margin-left:  7em;
 }
 .right{
-    margin-right: 5em;
+    margin-right: 7em;
     text-align-last: right;         
     
      
